@@ -52,6 +52,7 @@ public final class UseSet {
     	}
 //          
 //         6) Verifies if all the numbers left in the set are even
+    	
     	final Set<String> setEven = new TreeSet<>();
     	
         for (int i = 2; i <= UseSet.N_ELEMENTS; i += 2) {
